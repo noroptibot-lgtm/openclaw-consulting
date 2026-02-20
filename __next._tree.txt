@@ -1,0 +1,5 @@
+:HL["/openclaw-consulting/_next/static/chunks/415510cc2f0b5137.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","style"]
+:HL["/albert.jpg","image"]
+:HL["/morten.jpg","image"]
+0:{"buildId":"nhj-xg6nlJCra7-IeXEc5","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
